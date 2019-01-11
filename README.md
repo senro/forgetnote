@@ -1,4 +1,4 @@
-# 遗忘笔记 
+# [遗忘笔记](http://codinghello.com/forgetnote/) 
 
 ## 亲爱的forgetnote用户：
 
